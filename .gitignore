@@ -1,0 +1,19 @@
+# 忽略reports目录
+/reports/
+/reports/*
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo 
